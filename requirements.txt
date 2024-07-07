@@ -1,0 +1,9 @@
+streamlit 
+langchain 
+openai 
+nbformat 
+faiss-cpu 
+langchain-google-genai
+langchain-groq
+langchain_community
+python-dotenv
