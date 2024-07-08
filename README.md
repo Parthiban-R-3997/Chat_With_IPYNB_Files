@@ -8,7 +8,7 @@ Chat with .IPYNB files app is Deployed And Available [Here](https://huggingface.
 
 ## Screenshots
 
-![Results](![Capture](https://github.com/Parthiban-R-3997/Chat_Groq_Document_Q_A/assets/26496805/e7ccdc0a-82e5-4ef2-92b5-b03dc24d519c))
+![Capture](https://github.com/Parthiban-R-3997/Chat_Groq_Document_Q_A/assets/26496805/e7ccdc0a-82e5-4ef2-92b5-b03dc24d519c)
 
 
 ## Features
