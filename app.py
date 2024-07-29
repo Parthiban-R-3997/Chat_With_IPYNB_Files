@@ -113,8 +113,7 @@ with st.sidebar:
     uploaded_files = st.file_uploader("Choose .ipynb files", accept_multiple_files=True, type="ipynb")
 
     # Custom prompt text areas
-    st.markdown("Enter a custom prompt template (optional):")
-    custom_prompt_template = st.text_area("Custom Prompt Template", placeholder="Enter your custom prompt here...")
+    custom_prompt_template = st.text_area("Custom Prompt Template", placeholder="Enter your custom prompt here...(optional)")
 
     if st.button("Start Document Embedding"):
         if uploaded_files:
