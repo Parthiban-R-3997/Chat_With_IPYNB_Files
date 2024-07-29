@@ -96,14 +96,9 @@ def vector_embedding(ipynb_files):
 
 # Define model options for Gemini
 model_options = [
-  "models/gemini-1.0-pro",
-    "models/gemini-1.0-pro-001",
-    "models/gemini-1.0-pro-latest",
-    "models/gemini-1.0-pro-vision-latest",
-    "models/gemini-1.5-flash-latest",
-    "models/gemini-1.5-pro-latest",
-    "models/gemini-pro",
-    "models/gemini-pro-vision"
+  "gemini-1.5-flash",
+  "gemini-1.5-pro",
+  "gemini-1.0-pro"
 ]
 
 # Sidebar elements
